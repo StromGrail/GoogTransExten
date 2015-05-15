@@ -1,1 +1,1 @@
-Twitter extension for chrome
+Chrome extension which uses google translate to translate selected text.This extension is currently working for only one language i.e. HINDI but other languages can be added to it in future...Hope you like :)
